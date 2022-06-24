@@ -3,7 +3,7 @@ gitbook-headstart
 
 Based on "GitBook" at https://gitbook.com
 
-Can be read as "My First GitBook" at https://wvanheemstra-1.gitbook.io/gitbook-headstart/
+Can be read as "GitBook - Headstart" at https://wvanheemstra-1.gitbook.io/gitbook-headstart/
 
 ## 100 - Introduction
 
